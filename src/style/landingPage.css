@@ -1,0 +1,108 @@
+.App {
+  text-align: center;
+  
+}
+.App-cachorro{
+position: absolute;
+width: 486.58px;
+height: 468.69px;
+left: 746.42px;
+top: 174px;
+}
+.App-button {
+  position: absolute;
+  width: 393px;
+  height: 58px;
+  left: 110px;
+  top: 497px;
+  bottom: unset;
+
+  background: #f9a528;
+  box-shadow: 1px 1px 20px -7px #f6d167;
+  border-radius: 5px;
+
+  font-family: Ubuntu;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 18px;
+  text-transform: uppercase;
+
+  color: #ffffff;
+}
+
+.App-text {
+  position: absolute;
+  width: 423px;
+  height: 36px;
+  left: 110px;
+  top: 413px;
+
+  font-family: Ubuntu;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 18px;
+  text-align: left;
+  color: rgba(255, 255, 255, 0.64);
+}
+.App-logo {
+  position: absolute;
+  width: 110px;
+  height: 18px;
+  left: 110px;
+  top: 64px;
+
+  font-family: Comfortaa;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 18px;
+
+  color: #ffffff;
+}
+.App-educacao {
+  position: absolute;
+  width: 363px;
+  height: 128px;
+  left: 110px;
+  top: 261px;
+
+  font-family: Ubuntu;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 56px;
+  line-height: 64px;
+
+  color: #ffffff;
+}
+.App-texto {
+  position: absolute;
+  width: 423px;
+  height: 36px;
+  left: 110px;
+  top: 413px;
+
+  font-family: Ubuntu;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 18px;
+
+  color: rgba(255, 255, 255, 0.64);
+}
+
+.App-header {
+  background-color: #2d46b9;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}

@@ -1,0 +1,295 @@
+
+.App-main {
+  text-align: center;
+
+}
+ 
+
+
+.App-text{
+    
+position: absolute;
+width: 647px;
+height: 54px;
+left: 109px;
+top: 640px;
+
+font-family: Ubuntu;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 18px;
+
+color: rgba(34, 34, 34, 0.64);
+
+
+}
+
+.App-h1{
+position: absolute;
+width: 122px;
+height: 28px;
+left: 109px;
+top: 596px;
+
+font-family: Ubuntu;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 28px;
+
+/* identical to box height */
+
+color: #222222;
+}
+
+
+
+
+/* Conteiner com todos os videos */
+
+.App-p-tempo{
+position: absolute;
+width: 31px;
+height: 14px;
+left: 377px;
+top: -18px;
+
+font-family: Ubuntu;
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 14px;
+
+
+
+color: rgba(0, 0, 0, 0.64);
+}
+
+
+.App-grup-videos{
+position: absolute;
+width: 414px;
+height: 56px;
+left: 812px;
+top: 156px;
+
+
+}
+.App-icon-video{
+position: absolute;
+width: 82px;
+height: 56px;
+left: -12px;
+top: -7px;
+}
+.App-p-video{
+position: absolute;
+width: 316px;
+height: 22px;
+left: 93px;
+top: 1px;
+
+font-family: Ubuntu;
+font-style: normal;
+font-weight: normal;
+font-size: 10px;
+line-height: 11px;
+
+color: rgba(34, 34, 34, 0.64);
+}
+.App-h1-video{
+position: absolute;
+width: 82px;
+height: 18px;
+left: 92px;
+top: -18px;
+
+font-family: Ubuntu;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 18px;
+
+color: #222222;
+}
+.App-conteiner-cadastro-videos{
+position: absolute;
+width: 462px;
+height: 562px;
+left: 156px;
+top: 132px;
+
+background: #FFFFFF;
+
+border-radius: 5px;
+}
+/*^^^^^^^^^^^^^^*/
+
+.App-input{
+  position: absolute;
+  width:387px;
+  top: 85px;
+  left: 36px;
+  height: 40px;
+  border-radius: 5px;
+	background-color: #444;
+	color: #eee;
+}
+.App-input2{
+  position: absolute;
+  width:387px;
+  top: 185px;
+  left: 36px;
+  height: 40px;
+  border-radius: 5px;
+	background-color: #444;
+	color: #eee;
+}
+.App-input3{
+  position: absolute;
+  width:387px;
+  top: 285px;
+  left: 36px;
+  height: 40px;
+  border-radius: 5px;
+	background-color: #444;
+	color: #eee;
+}
+.App-input4{
+  position: absolute;
+  width:387px;
+  top: 385px;
+  left: 36px;
+  height: 40px;
+  border-radius: 5px;
+	background-color: #444;
+	color: #eee;
+}
+.App-video{
+position: absolute;
+width: 414px;
+height: 56px;
+left: 812px;
+top: 156px;
+}
+
+
+
+
+
+.App-button-play{
+position: absolute;
+width: 70px;
+height: 70px;
+left: 317px;
+top: 169px;
+}
+
+
+.App-apresentacao-video{
+position: absolute;
+width: 646px;
+height: 432px;
+left: 110px;
+top: 132px;
+text-align: center;
+background: url(https://s1.static.brasilescola.uol.com.br/be/conteudo/images/imagem-em-lente-convexa.jpg);
+}
+
+.App-button-cadastro {
+  position: absolute;
+  width: 393px;
+  height: 58px;
+  left: 190px;
+  top: 597px;
+  bottom: unset;
+
+  background: #f9a528;
+  box-shadow: 1px 1px 20px -7px #f6d167;
+  border-radius: 5px;
+
+  font-family: Ubuntu;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 18px;
+  text-transform: uppercase;
+
+  color: #ffffff;
+}
+
+
+
+
+
+
+
+
+
+
+.App-sair-icon {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  left: 1230px;
+  top: 40px;
+
+  border: 1.25px solid #ff6b70;
+}
+.App-cadastro-text {
+  position: absolute;
+  width: 81px;
+  height: 20px;
+  left: 1000px;
+  top: 24px;
+
+  font-family: Ubuntu;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 18px;
+
+  color: #ffffff;
+}
+.App-sair-text {
+  position: absolute;
+  width: 81px;
+  height: 20px;
+  left: 1133px;
+  top: 24px;
+
+  font-family: Ubuntu;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 18px;
+
+  color: #ffffff;
+}
+.App-logo {
+  position: absolute;
+  width: 110px;
+  height: 18px;
+  left: 110px;
+  top: 41px;
+
+  font-family: Comfortaa;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 18px;
+
+  /* identical to box height */
+
+  color: #ffffff;
+}
+.App-header {
+  position: absolute;
+  width: 1360px;
+  height: 100px;
+  left: 0px;
+  top: 0px;
+
+  background: #2d46b9;
+}
